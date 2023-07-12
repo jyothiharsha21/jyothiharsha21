@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jyothi harsha
-- 👀 I’m interested in sas coding
-- 🌱 I’m currently learning sas programming
-- 💞️ I’m looking to collaborate on sas projects
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python programming
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me through E-mail
 
 <!---
